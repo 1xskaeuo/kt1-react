@@ -1,0 +1,22 @@
+.service {
+    display: flex;
+}
+
+.card {
+    width: 100%;
+    height: 550px;
+    display: flex;
+    flex-direction: column;
+}
+
+hr {
+    width: 450px;
+    margin-top: 90px;
+}
+
+.serviceText {
+    color: white;
+    font-size: 32px;
+    padding-left: 80px;
+    margin: 0;
+}

@@ -1,0 +1,21 @@
+.hero{
+    background-color: #F4F9E2;
+    display: flex;
+    justify-content: space-between;
+    height: 800px;
+}
+.leftSection{
+    margin-top: 60px;
+    margin-left:120px;
+    padding-right: 120px;
+    padding-top: 100px;
+    
+}
+p{
+    font-size: 24px;
+    color: #22356F;
+}
+.dinoSection{
+    margin-top: 100px;
+    margin-right: 100px;
+}

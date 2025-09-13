@@ -1,0 +1,15 @@
+.rental{
+    display:flex;
+    justify-content: space-between;
+}
+.salesImage{
+    height: 100%;
+}
+.rightTextSection{
+    padding-left:100px;
+    padding-top: 170px;
+}
+.rentalText{
+     font-size: 36px;
+     font-style: italic;
+}

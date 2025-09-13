@@ -1,0 +1,18 @@
+header{
+    text-align: center;
+    background-color: #F4F9E2;
+}
+a {
+    padding-right: 50px;
+    display: inline-block;
+    transform: translateY(-25px);
+}
+.logo{
+    padding-right: 450px;
+    padding-top: 10px;
+}
+
+.but{
+    padding-left: 450px;
+    padding-bottom: 12px
+}
