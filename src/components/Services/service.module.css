@@ -17,6 +17,7 @@ hr {
 .serviceText {
     color: white;
     font-size: 32px;
+    font-style: italic;
     padding-left: 80px;
     margin: 0;
 }

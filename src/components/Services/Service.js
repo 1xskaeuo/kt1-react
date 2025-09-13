@@ -7,4 +7,4 @@ export default function Service({ title, color, className }) {
             <p className={serviceStyles.serviceText}>{title}</p>
         </div>
     );
-}
+}       
